@@ -1,0 +1,36 @@
+/* .myClass{
+    color: chocolate;
+}
+
+#myId{
+    color: aquamarine;
+}
+.myId{
+    color: blueviolet;
+    background-color: aqua;
+} */
+
+/* div{
+    color: rgb(255, 0, 225);
+    background-color: rgb(255, 196, 197);
+    border-color: black;
+} */
+
+
+.p{
+    color: blue;
+    background-color: beige;
+    border-color: black;
+}
+
+.myClass{
+    color: chartreuse;
+    background-color: bisque;
+    border-color: black;
+}
+
+#myId{
+    color: rgb(160, 95, 108);
+    background-color: rgb(15, 22, 15);
+    border-color: black;
+}
